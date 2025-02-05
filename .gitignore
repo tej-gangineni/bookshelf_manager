@@ -1,2 +1,12 @@
 .idea
-.vscode
+.history/
+app/__pycache__/
+app/models/__pycache__/
+app/routes/__pycache__/
+app/schemas/__pycache__/
+app/services/__pycache__/
+app/test.py
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
